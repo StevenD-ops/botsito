@@ -11,7 +11,7 @@ const otak = (prefix, pushname) => {
 
 _Ojito escribe tal como esta_
 
-by shanduy`
+by Steven D.`
 
 }
 

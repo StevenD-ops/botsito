@@ -4,7 +4,7 @@ const version = (prefix, pushname) => {
 
 *Actualizado:* 18 de junio de 2021
 *Versión actual:* 2.6
-*Ofrecida por:* shanduy™
+*Ofrecida por:* Steven D.™
 
 
 *NOVEDADES*
@@ -24,11 +24,8 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos.
 Si vez a alguien que robo mi bot comunicate conmigo.
 
 
-*BLOG DE SHANBOT*
 
-https://github.com/shanduy/ShanBot
-
-by shanduy
+by Steven D.
 `
 
 }
