@@ -10,8 +10,6 @@ const help = (prefix) => {
  *NUEVOS MENUS*
 - ${prefix}desmenu
 Descargar musica y videos de YT
-- ${prefix}version
-Conoce la versión de tu bot
 
  *PARA USAR EL BOT*
 Registrate con el comando ${prefix}registro y tu nombre
