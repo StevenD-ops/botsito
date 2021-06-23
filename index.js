@@ -91,8 +91,8 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = '*'
-blocked = []
+prefix = '.'
+blocked = [*]
 
 /******CONFIGURACION DE CARGA******/
 const settingan = JSON.parse(fs.readFileSync('./admin/set.json'))

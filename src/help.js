@@ -1,68 +1,49 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ShanBot 🤖 by shanduy* ⌟  
-
-◉ *INFORMACION*
+ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
 
-◉ *ShanBot Con Insultos O Quitarlos🤷‍♂️?*
-Responde esto en la siguiente encuesta
-https://forms.gle/4zzqRpV21CMGwsF57
-
-◉ *NUEVO COMANDO*
+ *NUEVO COMANDO*
 - ${prefix}otak
-Monas chinas
-- ${prefix}shantera
-Interactua con el bot
 
-◉ *NUEVOS MENUS*
+ *NUEVOS MENUS*
 - ${prefix}desmenu
 Descargar musica y videos de YT
 - ${prefix}version
 Conoce la versión de tu bot
-- ${prefix}welmenu
-Comandos de bienvedia a grupos
 
-◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+ *PARA USAR EL BOT*
+Registrate con el comando ${prefix}registro y tu nombre
 
-◉ *RESUELVE TUS DUDAS*
+ *CREAR STICKERS*
   ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
-
-◉ *CREAR STICKERS*
-  ║
-  ╠ ○ ${prefix}sticker
+  ╠ ○ ${prefix}sticker o s
   ╠ ○ ${prefix}attp
   ╠ Mas un texto corto
-  ╠ ○ ${prefix}stickergif
+  ╠ ○ ${prefix}stickergif o s
   ╚ 6 segundos de video
 
-◉ *CONVERTIDORES*
+ *CONVERTIDORES*
   ║
   ╠ ○ ${prefix}toimg
   ╠ De sticker a JPG
   ╠ ○ ${prefix}tomp3
   ╚ De video a MP3
 
-◉ *AUDIO*
+ *AUDIO*
   ║
   ╠ ○ ${prefix}idioma
   ╚ ○ ${prefix}tts es (mas texto)
 
-◉ *OTROS*
+ *OTROS*
   ║
   ╠ ○ ${prefix}wame
   ╠ Link de Whatsapp
   ╠ ○ ${prefix}qrcode
   ╚ Coloca un texto
 
-◉ *GRUPOS*
+ *GRUPOS*
   ║
   ╠ ○ ${prefix}closegc
   ╠ Cerrar el grupo solo admins
@@ -81,17 +62,11 @@ Registrate con el comando ${prefix}daftar y tu nombre
 
 Para usar estas funciones el bot necesita admin
   
-◉ *NSWF* 
+ *NSWF* 
   ║
   ╚ ○ ${prefix}nsfwmenu
 
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
-
-No te olvides de seguirme en instagram flaco ;)
-
-by shanduy
-
-⌜ *ごきげんよう :)* ⌟ 
 `
 }
 
